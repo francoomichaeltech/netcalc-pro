@@ -58,7 +58,7 @@ A premium, fully offline scientific calculator built with Flutter. Designed for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/michaelfrancoodev/netcalc-pro.git
+git clone https://github.com/francoomichaeltech/netcalc-pro.git
 
 # Install dependencies
 cd netcalc-pro
