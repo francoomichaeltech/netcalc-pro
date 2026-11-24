@@ -93,6 +93,14 @@ lib/
 
 ---
 
+## Author
+
+- **Name:** MICHAEL FRANCOO
+- **GitHub:** [@francoomichaeltech](https://github.com/francoomichaeltech)
+- **Email:** francoomichaeltech@gmail.com
+
+---
+
 ## License
 
 © 2025 NetCalc Pro. All rights reserved. Built as a professional academic project.
